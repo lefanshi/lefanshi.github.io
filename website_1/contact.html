@@ -11,55 +11,100 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "jquery.watch.js", "require.js", "contact.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "contact.css"], "outOfDate":[]};
 </script>
   
   <title>Contact</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=133403550"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=269066256" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=30718419"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=3851651280" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="grpelem" id="u98"><!-- custom html -->
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+   <div class="clearfix grpelem" id="pu98"><!-- column -->
+    <div class="colelem" id="u98"><!-- custom html -->
+     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 
 <style>
-h1,h2,h3,h4,h5,p{font-family: 'Quicksand', sans-serif;}
+h1,h2,h3,h4,h5,p,*{font-family: 'Quicksand', sans-serif;}
 </style>
+    </div>
+    <div class="colelem" id="u2047"><!-- custom html -->
+     	<style>
+		.PamphletWidget, form, #u2052, #u2058 {
+			animation-name: example;
+    		             animation-duration: 2s;
+		}
+		@keyframes example {
+			from { opacity: 0; }
+			to { opacity: 1; }
+		}
+	</style>
+    </div>
    </div>
    <a class="nonblock nontext clearfix grpelem" id="u151-4" href="index.html"><!-- content --><p>WORK</p></a>
+   <div class="grpelem" id="u1843"><!-- custom html -->
+    <html>
+<head>
+	<style>
+		* {
+		}
+		.stylish {
+			border: 1px solid #243841;
+			border-radius: 1.0em;
+			padding: 1em;
+			display: block;
+			margin: 0;
+			margin-bottom: 2em;
+		}
+		
+		input {
+			width: 30em;
+			height: 2em;
+		}
+		textarea {
+			width: 30em;
+			height: 15em;
+		}
+		.input-label {
+			color:#243841;
+			font-size: 1em;
+			margin: 0px;
+			margin-bottom: 10px;
+		}
+		.submitBtn {
+			border: none;
+			border-radius: 5.0em;
+			background-color: #EDF7F5;
+			padding: 1em;
+			padding-left: 4em;
+			padding-right: 4em;
+			transition: background-color 1s, color 1s;
+			color: #243841;
+		}
+		.submitBtn:hover {
+			transition: background-color 1s, color 1s;
+			background-color: #243841;
+			color: #EDF7F5;
+		}
+	</style>
+</head>
+<body>
+	<form method="POST" action="http://formspree.io/hello@lefanshi.me">
+	  <p class="input-label">Subject*:</p>
+	  <input class="stylish" type="subject" name="subject">
+	  <p class="input-label">Your Email*:</p>
+	  <input class="stylish" type="email" name="email">
+	  <p class="input-label">Your Message*:</p>
+	  <textarea class="stylish" name="message"></textarea>
+	  <button class="submitBtn" type="submit">Send</button>
+	</form>
+</body>
+</html>
+   </div>
    <a class="nonblock nontext clearfix grpelem" id="u157-4" href="blog.html"><!-- content --><p>BLOG</p></a>
-   <form class="form-grp clearfix grpelem" id="widgetu1563" method="post" enctype="multipart/form-data" action="scripts/form-u1563.php"><!-- none box -->
-    <div class="fld-grp clearfix grpelem" id="widgetu1576" data-required="true"><!-- none box -->
-     <label class="fld-label actAsDiv clearfix grpelem" id="u1577-4" for="widgetu1576_input"><!-- content --><span class="actAsPara">Name*:</span></label>
-     <span class="fld-input NoWrap actAsDiv rounded-corners clearfix grpelem" id="u1578-3"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu1576_input" name="custom_U1576" tabindex="1"/></span>
-    </div>
-    <div class="fld-grp clearfix grpelem" id="widgetu1566" data-required="true" data-type="email"><!-- none box -->
-     <label class="fld-label actAsDiv clearfix grpelem" id="u1568-4" for="widgetu1566_input"><!-- content --><span class="actAsPara">Email*:</span></label>
-     <span class="fld-input NoWrap actAsDiv rounded-corners clearfix grpelem" id="u1569-3"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu1566_input" name="Email" tabindex="2"/></span>
-    </div>
-    <div class="clearfix grpelem" id="u1565-4"><!-- content -->
-     <p>Submitting Form...</p>
-    </div>
-    <div class="clearfix grpelem" id="u1571-4"><!-- content -->
-     <p>The server encountered an error.</p>
-    </div>
-    <div class="clearfix grpelem" id="u1564-4"><!-- content -->
-     <p>Your message has been sent ^-^</p>
-    </div>
-    <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u1570-4" type="submit" value="Submit" tabindex="4"><!-- content -->
-     <div style="margin-top:-12px;height:12px;">
-      <p>Submit</p>
-     </div>
-    </button>
-    <div class="fld-grp clearfix grpelem" id="widgetu1572" data-required="false"><!-- none box -->
-     <label class="fld-label actAsDiv clearfix grpelem" id="u1575-4" for="widgetu1572_input"><!-- content --><span class="actAsPara">Message*:</span></label>
-     <span class="fld-textarea actAsDiv rounded-corners clearfix grpelem" id="u1574-3"><!-- content --><textarea class="wrapped-input" id="widgetu1572_input" name="custom_U1572" tabindex="3"></textarea></span>
-    </div>
-   </form>
    <div class="clearfix grpelem" id="pu107"><!-- column -->
     <div class="clip_frame colelem" id="u107"><!-- svg -->
      <img class="svg" id="u105" src="images/pasted-svg-80x85.svg?crc=4031484400" width="63" height="67" alt="" data-mu-svgfallback="images/pasted%20svg%2080x85_poster_.png?crc=3773136060"/>
@@ -70,7 +115,7 @@ h1,h2,h3,h4,h5,p{font-family: 'Quicksand', sans-serif;}
    </div>
    <a class="nonblock nontext clearfix grpelem" id="u160-4" href="about.html"><!-- content --><p>ABOUT</p></a>
    <a class="nonblock nontext MuseLinkActive clearfix grpelem" id="u161-4" href="contact.html"><!-- content --><p>CONTACT</p></a>
-   <div class="verticalspacer" data-offset-top="602" data-content-above-spacer="602" data-content-below-spacer="99"></div>
+   <div class="verticalspacer" data-offset-top="915" data-content-above-spacer="915" data-content-below-spacer="99"></div>
    <div class="clearfix grpelem" id="u244-4"><!-- content -->
     <p>Design &amp; Development by Lefan Shi</p>
    </div>
@@ -81,12 +126,11 @@ h1,h2,h3,h4,h5,p{font-family: 'Quicksand', sans-serif;}
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('#widgetu1563', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu1563 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

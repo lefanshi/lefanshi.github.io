@@ -1,40 +1,30 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492488246489">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492551062036">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="133403550" ref="résumé:facial-nerve:blog:index:animal-cell-and-plant-cell:allergic-reactions:contact:about"/>
-    <file name="r_sum_.css" crc="373613174" ref="résumé"/>
-    <file name="facial-nerve.css" crc="373613174" ref="facial-nerve"/>
-    <file name="blog.css" crc="373613174" ref="blog"/>
-    <file name="index.css" crc="4278398587" ref="index"/>
-    <file name="animal-cell-and-plant-cell.css" crc="295299160" ref="animal-cell-and-plant-cell"/>
-    <file name="allergic-reactions.css" crc="56398136" ref="allergic-reactions"/>
-    <file name="contact.css" crc="269066256" ref="contact"/>
-    <file name="about.css" crc="3775807307" ref="about"/>
-  </folder>
-  <folder name="assets">
-    <file name="lefan_shi_résumé2.pdf" crc="427880442" seo="true" mt="1492474121000"/>
+    <file name="master_a-master.css" crc="30718419" ref="résumé:facial-nerve:blog:index:animal-cell-and-plant-cell:allergic-reactions:contact:about"/>
+    <file name="r_sum_.css" crc="114349209" ref="résumé"/>
+    <file name="facial-nerve.css" crc="4281442072" ref="facial-nerve"/>
+    <file name="blog.css" crc="4281442072" ref="blog"/>
+    <file name="index.css" crc="7749647" ref="index"/>
+    <file name="animal-cell-and-plant-cell.css" crc="4173775684" ref="animal-cell-and-plant-cell"/>
+    <file name="allergic-reactions.css" crc="4179234239" ref="allergic-reactions"/>
+    <file name="contact.css" crc="3851651280" ref="contact"/>
+    <file name="about.css" crc="4267596900" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
     <file name="museutils.js" crc="4232573551" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
     <file name="whatinput.js" crc="86476730" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
     <file name="museconfig.js" crc="4152223963" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:allergic-reactions:animal-cell-and-plant-cell"/>
-    <file name="webpro.js" crc="3770351119" ref="index:contact"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:allergic-reactions:animal-cell-and-plant-cell:résumé"/>
+    <file name="webpro.js" crc="3770351119" ref="index:résumé"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:résumé"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:résumé"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:résumé"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
     <file name="require.js" crc="4234670167" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="form_check.php" crc="3841221102" ref="contact"/>
-    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
-    <file name="form_process.php" crc="3899230280" ref="contact"/>
-    <file name="form-u1563.php" crc="443507634" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="animal_cell_and_plant_cell_transition.png" crc="3789984500" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pasted-svg-80x85.svg" crc="4031484400" seo="true" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé">
       <caption webpage="blog" alt=""/>
       <caption webpage="facial-nerve" alt=""/>
@@ -53,6 +43,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="allergic_reactions_lefan_shi.jpg" crc="4021412746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animal_cell_and_plant_cell_transition.png" crc="3789984500" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="facial_nerve_transition.png" crc="504377703" ref="index">
@@ -97,13 +90,15 @@
     <file name="animal_cell_and_plant_cell.jpg" crc="3792679446" ref="animal-cell-and-plant-cell">
       <caption webpage="animal-cell-and-plant-cell" alt=""/>
     </file>
+    <file name="lefan_shi_résumé.svg" crc="4101376642" ref="résumé"/>
+    <file name="lefan_shi_résumé_poster_u2021.png" crc="19100392" ref="résumé"/>
   </folder>
-  <file name="index.html" crc="4103083163" seo="true" mt="1492486312746" redirect="true"/>
-  <file name="blog.html" crc="362818973" seo="true" mt="1492488160326" redirect="true"/>
-  <file name="about.html" crc="4024742184" seo="true" mt="1492486312746" redirect="true"/>
-  <file name="contact.html" crc="366613202" seo="true" mt="1492487830293" redirect="true"/>
-  <file name="allergic-reactions.html" crc="471706259" seo="true" mt="1492486312746" redirect="true"/>
-  <file name="animal-cell-and-plant-cell.html" crc="4191244842" seo="true" mt="1492486312746" redirect="true"/>
-  <file name="facial-nerve.html" crc="3955862118" seo="true" mt="1492486312746" redirect="true"/>
-  <file name="résumé.html" crc="3900309064" seo="true" mt="1492486312746" redirect="true"/>
+  <file name="index.html" crc="3932158366" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="blog.html" crc="133522672" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="about.html" crc="3881234802" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="contact.html" crc="156567232" seo="true" mt="1492550976104" redirect="true"/>
+  <file name="allergic-reactions.html" crc="286420494" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="animal-cell-and-plant-cell.html" crc="351621900" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="facial-nerve.html" crc="3797771537" seo="true" mt="1492550914424" redirect="true"/>
+  <file name="résumé.html" crc="3942609089" seo="true" mt="1492550914424" redirect="true"/>
 </manifest>

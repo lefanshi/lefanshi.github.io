@@ -1,41 +1,44 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492623825760">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492702753257">
   <folder name="css">
-    <file name="site_global.css" crc="4048287822"/>
-    <file name="master_a-master.css" crc="30718419" ref="blog:résumé:animal-cell-and-plant-cell:about:allergic-reactions:facial-nerve:contact:index"/>
-    <file name="blog.css" crc="4281442072" ref="blog"/>
-    <file name="r_sum_.css" crc="485681468" ref="résumé"/>
-    <file name="animal-cell-and-plant-cell.css" crc="4173775684" ref="animal-cell-and-plant-cell"/>
-    <file name="about.css" crc="19369917" ref="about"/>
-    <file name="allergic-reactions.css" crc="401035848" ref="allergic-reactions"/>
-    <file name="facial-nerve.css" crc="4281442072" ref="facial-nerve"/>
-    <file name="contact.css" crc="404206509" ref="contact"/>
-    <file name="index.css" crc="242411788" ref="index"/>
+    <file name="site_global.css" crc="61748328"/>
+    <file name="master_b-master.css" crc="234430372" ref="allergic-reactions:blog:animal-cell-and-plant-cell:about:facial-nerve:contact:résumé"/>
+    <file name="master_a-master.css" crc="3890216609" ref="illustration---graphic-design---lefan-shi:index"/>
+    <file name="allergic-reactions.css" crc="3943348517" ref="allergic-reactions"/>
+    <file name="blog.css" crc="92740692" ref="blog"/>
+    <file name="animal-cell-and-plant-cell.css" crc="139235486" ref="animal-cell-and-plant-cell"/>
+    <file name="about.css" crc="452825367" ref="about"/>
+    <file name="illustration---graphic-design---lefan-shi.css" crc="4130632508" ref="illustration---graphic-design---lefan-shi"/>
+    <file name="facial-nerve.css" crc="92740692" ref="facial-nerve"/>
+    <file name="contact.css" crc="486064701" ref="contact"/>
+    <file name="index.css" crc="4235114084" ref="index"/>
+    <file name="r_sum_.css" crc="4208413516" ref="résumé"/>
   </folder>
   <folder name="assets">
     <file name="lefan_shi_résumé.pdf" crc="427880442" seo="true" mt="1492474121000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="museutils.js" crc="4232573551" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="whatinput.js" crc="86476730" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:allergic-reactions:animal-cell-and-plant-cell:résumé"/>
-    <file name="webpro.js" crc="3770351119" ref="index:résumé"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index:résumé"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index:résumé"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index:résumé"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
-    <file name="require.js" crc="4234670167" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="museutils.js" crc="4232573551" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about:allergic-reactions:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="webpro.js" crc="3770351119" ref="index:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
+    <file name="require.js" crc="4234670167" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-80x85.svg" crc="4031484400" seo="true" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé">
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-      <caption webpage="blog" alt=""/>
-      <caption webpage="contact" alt=""/>
+    <file name="pasted-svg-80x85.svg" crc="4031484400" seo="true" ref="index:blog:about:contact:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi">
       <caption webpage="résumé" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="allergic-reactions" alt=""/>
       <caption webpage="facial-nerve" alt=""/>
+      <caption webpage="animal-cell-and-plant-cell" alt=""/>
+      <caption webpage="allergic-reactions" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 80x85_poster_.png" crc="3773136060" ref="index"/>
@@ -75,35 +78,33 @@
     <file name="metamorphosis_lefan_shi.jpg" crc="4118177406" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="social_issue_poster_lefan_shi.jpg" crc="4045209765" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drug_abuse_transition.png" crc="4090217828" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="robot_smoker_lefan_shi.jpg" crc="4171738273" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="robot_smoker_transition.png" crc="3775616340" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="me.jpg" crc="3783725322" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="allergic_reactions-01.svg" crc="330537070" ref="allergic-reactions"/>
-    <file name="allergic_reactions-01_poster_u2194.png" crc="3819376609" ref="allergic-reactions"/>
-    <file name="animal_cell_and_plant_cell.jpg" crc="3792679446" ref="animal-cell-and-plant-cell">
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-    </file>
+    <file name="allergic_reactions_800.svg" crc="4141391967" ref="allergic-reactions"/>
+    <file name="allergic_reactions_800_poster_u2234.png" crc="38102026" ref="allergic-reactions"/>
     <file name="lefan_shi_resume.svg" crc="4142228301" ref="résumé"/>
     <file name="lefan_shi_resume_poster_u2152.png" crc="3996699712" ref="résumé"/>
+    <file name="robot_smoker_lefan_shi.jpg" crc="4171738273" ref="illustration---graphic-design---lefan-shi">
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+    </file>
+    <file name="robot_smoker_transition.png" crc="3775616340" ref="illustration---graphic-design---lefan-shi">
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+    </file>
+    <file name="social_issue_poster_lefan_shi.jpg" crc="4045209765" ref="illustration---graphic-design---lefan-shi">
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+    </file>
+    <file name="drug_abuse_transition.png" crc="4090217828" ref="illustration---graphic-design---lefan-shi">
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="467436666" seo="true" mt="1492623541841" redirect="true"/>
-  <file name="blog.html" crc="129330666" seo="true" mt="1492567031579" redirect="true"/>
-  <file name="about.html" crc="4160865068" seo="true" mt="1492569908723" redirect="true"/>
-  <file name="contact.html" crc="88432746" seo="true" mt="1492567031579" redirect="true"/>
-  <file name="allergic-reactions.html" crc="4168372844" seo="true" mt="1492623552779" redirect="true"/>
-  <file name="animal-cell-and-plant-cell.html" crc="436031112" seo="true" mt="1492567031579" redirect="true"/>
-  <file name="facial-nerve.html" crc="3773188849" seo="true" mt="1492567031579" redirect="true"/>
-  <file name="résumé.html" crc="228554068" seo="true" mt="1492568716297" redirect="true"/>
+  <file name="index.html" crc="370806608" seo="true" mt="1492702507380" redirect="true"/>
+  <file name="blog.html" crc="397465283" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="about.html" crc="4005771079" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="contact.html" crc="3879677698" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="allergic-reactions.html" crc="3939562836" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="animal-cell-and-plant-cell.html" crc="4224201523" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="facial-nerve.html" crc="4146948027" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="résumé.html" crc="4160628676" seo="true" mt="1492701680425" redirect="true"/>
+  <file name="illustration---graphic-design---lefan-shi.html" crc="3910557519" seo="true" mt="1492702669400" redirect="true"/>
 </manifest>

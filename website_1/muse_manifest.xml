@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492885681696">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492885880972">
   <folder name="css">
     <file name="site_global.css" crc="4048287822"/>
     <file name="master_a-master.css" crc="4023248384" ref="illustration---graphic-design---lefan-shi:index:medical---scientific-visual"/>
@@ -12,8 +12,8 @@
     <file name="r_sum_.css" crc="485809739" ref="résumé"/>
     <file name="nomq_r_sum_.css" crc="3824530138" ref="résumé"/>
     <file name="contact---lefan-shi.css" crc="29878576" ref="contact---lefan-shi"/>
-    <file name="index.css" crc="4294068098" ref="index"/>
-    <file name="nomq_index.css" crc="515774543" ref="index"/>
+    <file name="index.css" crc="71505082" ref="index"/>
+    <file name="nomq_index.css" crc="3782510614" ref="index"/>
     <file name="medical---scientific-visual.css" crc="3883087093" ref="medical---scientific-visual"/>
     <file name="nomq_medical---scientific-visual.css" crc="3982058231" ref="medical---scientific-visual"/>
     <file name="facial-nerve.css" crc="191319297" ref="facial-nerve"/>
@@ -205,7 +205,7 @@
     <file name="lefan_shi_resume.svg" crc="4142228301" ref="résumé"/>
     <file name="lefan_shi_resume_poster_u2152.png" crc="3996699712" ref="résumé"/>
   </folder>
-  <file name="index.html" crc="3983528142" seo="true" mt="1492885658933" redirect="true"/>
+  <file name="index.html" crc="26439806" seo="true" mt="1492885844632" redirect="true"/>
   <file name="blog---lefan-shi.html" crc="3824948966" seo="true" mt="1492885562607" redirect="true"/>
   <file name="about---lefan-shi.html" crc="4032984703" seo="true" mt="1492885562607" redirect="true"/>
   <file name="contact---lefan-shi.html" crc="2193413" seo="true" mt="1492885562607" redirect="true"/>

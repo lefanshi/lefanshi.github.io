@@ -1,24 +1,24 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1492885880972">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1493258286327">
   <folder name="css">
     <file name="site_global.css" crc="4048287822"/>
-    <file name="master_a-master.css" crc="4023248384" ref="illustration---graphic-design---lefan-shi:index:medical---scientific-visual"/>
-    <file name="nomq_preview_master_a-master.css" crc="393771834" ref="illustration---graphic-design---lefan-shi:index:medical---scientific-visual"/>
-    <file name="master_b-master.css" crc="4158851603" ref="animal-cell-and-plant-cell:about---lefan-shi:résumé:contact---lefan-shi:facial-nerve:allergic-reactions:blog---lefan-shi"/>
-    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="animal-cell-and-plant-cell:about---lefan-shi:résumé:contact---lefan-shi:facial-nerve:allergic-reactions:blog---lefan-shi"/>
-    <file name="animal-cell-and-plant-cell.css" crc="4012521640" ref="animal-cell-and-plant-cell"/>
-    <file name="about---lefan-shi.css" crc="4248957349" ref="about---lefan-shi"/>
-    <file name="illustration---graphic-design---lefan-shi.css" crc="3872223197" ref="illustration---graphic-design---lefan-shi"/>
-    <file name="nomq_illustration---graphic-design---lefan-shi.css" crc="4005806639" ref="illustration---graphic-design---lefan-shi"/>
+    <file name="master_b-master.css" crc="4158851603" ref="résumé:allergic-reactions:facial-nerve:animal-cell-and-plant-cell:about---lefan-shi:blog---lefan-shi:contact---lefan-shi"/>
+    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="résumé:allergic-reactions:facial-nerve:animal-cell-and-plant-cell:about---lefan-shi:blog---lefan-shi:contact---lefan-shi"/>
+    <file name="master_a-master.css" crc="3975536769" ref="illustration---graphic-design---lefan-shi:medical---scientific-visual:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="393771834" ref="illustration---graphic-design---lefan-shi:medical---scientific-visual:index"/>
     <file name="r_sum_.css" crc="485809739" ref="résumé"/>
     <file name="nomq_r_sum_.css" crc="3824530138" ref="résumé"/>
-    <file name="contact---lefan-shi.css" crc="29878576" ref="contact---lefan-shi"/>
-    <file name="index.css" crc="71505082" ref="index"/>
-    <file name="nomq_index.css" crc="3782510614" ref="index"/>
-    <file name="medical---scientific-visual.css" crc="3883087093" ref="medical---scientific-visual"/>
-    <file name="nomq_medical---scientific-visual.css" crc="3982058231" ref="medical---scientific-visual"/>
-    <file name="facial-nerve.css" crc="191319297" ref="facial-nerve"/>
     <file name="allergic-reactions.css" crc="371357911" ref="allergic-reactions"/>
+    <file name="facial-nerve.css" crc="191319297" ref="facial-nerve"/>
+    <file name="illustration---graphic-design---lefan-shi.css" crc="4073683385" ref="illustration---graphic-design---lefan-shi"/>
+    <file name="nomq_illustration---graphic-design---lefan-shi.css" crc="4005806639" ref="illustration---graphic-design---lefan-shi"/>
+    <file name="animal-cell-and-plant-cell.css" crc="4012521640" ref="animal-cell-and-plant-cell"/>
+    <file name="medical---scientific-visual.css" crc="427930193" ref="medical---scientific-visual"/>
+    <file name="nomq_medical---scientific-visual.css" crc="3982058231" ref="medical---scientific-visual"/>
+    <file name="about---lefan-shi.css" crc="4248957349" ref="about---lefan-shi"/>
     <file name="blog---lefan-shi.css" crc="191319297" ref="blog---lefan-shi"/>
+    <file name="index.css" crc="363392283" ref="index"/>
+    <file name="nomq_index.css" crc="136675297" ref="index"/>
+    <file name="contact---lefan-shi.css" crc="29878576" ref="contact---lefan-shi"/>
   </folder>
   <folder name="assets">
     <file name="lefan_shi_résumé.pdf" crc="427880442" seo="true" mt="1492474121000"/>
@@ -43,26 +43,30 @@
   <folder name="images">
     <file name="pasted-svg-80x85.svg" crc="4031484400" seo="true" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:résumé:illustration---graphic-design---lefan-shi:medical---scientific-visual">
       <caption webpage="facial-nerve" alt=""/>
-      <caption webpage="blog---lefan-shi" alt=""/>
-      <caption webpage="résumé" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="allergic-reactions" alt=""/>
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="contact---lefan-shi" alt=""/>
-      <caption webpage="medical---scientific-visual" alt=""/>
-      <caption webpage="medical---scientific-visual" alt=""/>
-      <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="résumé" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="animal-cell-and-plant-cell" alt=""/>
+      <caption webpage="about---lefan-shi" alt=""/>
+      <caption webpage="allergic-reactions" alt=""/>
+      <caption webpage="blog---lefan-shi" alt=""/>
     </file>
     <file name="pasted svg 80x85_poster_.png" crc="3773136060" ref="index"/>
     <file name="animal_cell_and_plant_cell_lefan_shi.jpg" crc="418089522" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -73,10 +77,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="allergic_reactions_lefan_shi.jpg" crc="4021412746" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -87,10 +93,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="facial_nerve_transition.png" crc="504377703" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -101,10 +109,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="brachial_plexus_transition.png" crc="3925626221" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -115,10 +125,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="botanical_illustrations_transition.png" crc="3994293162" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -129,10 +141,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="papilionidae_metamorphosis_transition.png" crc="414890481" ref="index:medical---scientific-visual">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
@@ -143,10 +157,12 @@
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
       <caption webpage="medical---scientific-visual" alt=""/>
+      <caption webpage="medical---scientific-visual" alt=""/>
     </file>
     <file name="social_issue_poster_lefan_shi.jpg" crc="4045209765" ref="index:illustration---graphic-design---lefan-shi">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
@@ -157,10 +173,12 @@
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
     </file>
     <file name="robot_smoker_lefan_shi.jpg" crc="4171738273" ref="index:illustration---graphic-design---lefan-shi">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
@@ -171,27 +189,28 @@
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
       <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
+      <caption webpage="illustration---graphic-design---lefan-shi" alt=""/>
     </file>
     <file name="top_button.svg" crc="196193759" ref="index"/>
     <file name="top_button_poster_u2835.png" crc="224474749" ref="index"/>
-    <file name="mobile_drop_down.svg" crc="39190378" ref="index"/>
-    <file name="mobile_drop_down_poster_u10123.png" crc="208341735" ref="index"/>
     <file name="animal_cell_and_plant_cell_lefan_shi-u194-fr.jpg" crc="117074988" ref="index"/>
-    <file name="animal_cell_and_plant_cell_transition-u888-fr.png" crc="169287647" ref="index"/>
-    <file name="allergic_reactions_lefan_shi-u195-fr.jpg" crc="511958511" ref="index"/>
     <file name="allergic_reactions_transition-u435-fr.png" crc="4023275877" ref="index"/>
+    <file name="allergic_reactions_lefan_shi-u195-fr.jpg" crc="511958511" ref="index"/>
+    <file name="animal_cell_and_plant_cell_transition-u888-fr.png" crc="169287647" ref="index"/>
     <file name="facial_nerve_transition-u940-fr.png" crc="222460738" ref="index"/>
     <file name="facial_nerve_lefan_shi-u200-fr.jpg" crc="472242407" ref="index"/>
-    <file name="brachial_plexus_lefan_shi-u222-fr.jpg" crc="4006313173" ref="index"/>
     <file name="brachial_plexus_transition-u2114-fr.png" crc="4289475228" ref="index"/>
-    <file name="botanical_illustrations_transition-u1018-fr.png" crc="4211304794" ref="index"/>
+    <file name="brachial_plexus_lefan_shi-u222-fr.jpg" crc="4006313173" ref="index"/>
     <file name="botanical_illustrations_lefan_shi-u345-fr.jpg" crc="215567347" ref="index"/>
-    <file name="metamorphosis_lefan_shi-u346-fr.jpg" crc="3769455402" ref="index"/>
+    <file name="botanical_illustrations_transition-u1018-fr.png" crc="4211304794" ref="index"/>
     <file name="papilionidae_metamorphosis_transition-u1100-fr.png" crc="377231004" ref="index"/>
-    <file name="robot_smoker_lefan_shi-u3959-fr.jpg" crc="4211242148" ref="index"/>
-    <file name="robot_smoker_transition-u3974-fr.png" crc="127523007" ref="index"/>
+    <file name="metamorphosis_lefan_shi-u346-fr.jpg" crc="3769455402" ref="index"/>
     <file name="social_issue_poster_lefan_shi-u3971-fr.jpg" crc="3876370689" ref="index"/>
     <file name="drug_abuse_transition-u3970-fr.png" crc="3786525325" ref="index"/>
+    <file name="robot_smoker_lefan_shi-u3959-fr.jpg" crc="4211242148" ref="index"/>
+    <file name="robot_smoker_transition-u3974-fr.png" crc="127523007" ref="index"/>
+    <file name="mobile_drop_down.svg" crc="39190378" ref="index"/>
+    <file name="mobile_drop_down_poster_u10123.png" crc="208341735" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:illustration---graphic-design---lefan-shi:medical---scientific-visual"/>
     <file name="me.jpg" crc="3783725322" ref="about---lefan-shi">
       <caption webpage="about---lefan-shi" alt=""/>
@@ -205,7 +224,7 @@
     <file name="lefan_shi_resume.svg" crc="4142228301" ref="résumé"/>
     <file name="lefan_shi_resume_poster_u2152.png" crc="3996699712" ref="résumé"/>
   </folder>
-  <file name="index.html" crc="26439806" seo="true" mt="1492885844632" redirect="true"/>
+  <file name="index.html" crc="3986042629" seo="true" mt="1493258118095" redirect="true"/>
   <file name="blog---lefan-shi.html" crc="3824948966" seo="true" mt="1492885562607" redirect="true"/>
   <file name="about---lefan-shi.html" crc="4032984703" seo="true" mt="1492885562607" redirect="true"/>
   <file name="contact---lefan-shi.html" crc="2193413" seo="true" mt="1492885562607" redirect="true"/>
@@ -213,6 +232,6 @@
   <file name="animal-cell-and-plant-cell.html" crc="153751981" seo="true" mt="1492885562607" redirect="true"/>
   <file name="facial-nerve.html" crc="233045003" seo="true" mt="1492885562607" redirect="true"/>
   <file name="résumé.html" crc="3970907487" seo="true" mt="1492885562607" redirect="true"/>
-  <file name="illustration---graphic-design---lefan-shi.html" crc="3959432853" seo="true" mt="1492885658933" redirect="true"/>
-  <file name="medical---scientific-visual.html" crc="4013868560" seo="true" mt="1492885658933" redirect="true"/>
+  <file name="illustration---graphic-design---lefan-shi.html" crc="198598714" seo="true" mt="1493258118095" redirect="true"/>
+  <file name="medical---scientific-visual.html" crc="388235410" seo="true" mt="1493258118095" redirect="true"/>
 </manifest>

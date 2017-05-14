@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "jquery.watch.js", "jquery.musemenu.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "r_sum_.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "jquery.watch.js", "jquery.musemenu.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "r_sum_.css"], "outOfDate":[]};
 </script>
   
   <title>Résumé</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=61748328"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=510934267"/>
-  <link rel="stylesheet" type="text/css" href="css/r_sum_.css?crc=106606075" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4158906675"/>
+  <link rel="stylesheet" type="text/css" href="css/r_sum_.css?crc=4136560181" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=509184651"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_r_sum_.css?crc=141960691" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_r_sum_.css?crc=3788088287" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -77,7 +77,7 @@ html, body {overflow-x: hidden !important;}
 
   
   <div class="breakpoint active" id="bp_infinity" data-min-width="981"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox shared_content" id="page" data-content-guid="page_content"><!-- group -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
     <div class="clearfix grpelem shared_content" id="pu17059" data-content-guid="pu17059_content"><!-- column -->
      <div class="size_fixed colelem" id="u17059"><!-- custom html -->
       
@@ -129,41 +129,51 @@ h1,h2,h3,h4,h5,p,*{font-family: 'Quicksand', sans-serif;}
 	</style>
      </div>
     </div>
-    <a class="nonblock nontext clearfix grpelem" id="u151-4" href="index.html"><!-- content --><p>WORK</p></a>
-    <a class="nonblock nontext clearfix grpelem" id="u157-4" href="blog---lefan-shi.html"><!-- content --><p>BLOG</p></a>
-    <div class="clearfix grpelem" id="pu107"><!-- column -->
-     <div class="clip_frame colelem shared_content" id="u107" data-content-guid="u107_content"><!-- svg -->
-      <img class="svg temp_no_img_src" id="u105" data-orig-src="images/pasted-svg-80x85.svg?crc=4031484400" width="63" height="67" alt="" data-mu-svgfallback="images/pasted%20svg%2080x85_poster_.png?crc=3773136060" src="images/blank.gif?crc=4208392903"/>
+    <div class="clearfix grpelem shared_content" id="ppu151-4" data-content-guid="ppu151-4_content"><!-- column -->
+     <div class="clearfix colelem" id="pu151-4"><!-- group -->
+      <a class="nonblock nontext clearfix grpelem" id="u151-4" href="index.html"><!-- content --><p>WORK</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u157-4" href="blog---lefan-shi.html"><!-- content --><p>BLOG</p></a>
+      <div class="grpelem shared_content" id="u24166" data-content-guid="u24166_content"><!-- simple frame --></div>
+      <a class="nonblock nontext clearfix grpelem" id="u160-4" href="about---lefan-shi.html"><!-- content --><p>ABOUT</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u161-4" href="contact---lefan-shi.html"><!-- content --><p>CONTACT</p></a>
      </div>
      <div class="clearfix colelem shared_content" id="u255-4" data-content-guid="u255-4_content"><!-- content -->
       <p>Lefan Shi</p>
      </div>
+     <div class="museBGSize colelem shared_content" id="u24152" data-content-guid="u24152_content"><!-- simple frame --></div>
     </div>
-    <a class="nonblock nontext clearfix grpelem" id="u160-4" href="about---lefan-shi.html"><!-- content --><p>ABOUT</p></a>
-    <a class="nonblock nontext clearfix grpelem" id="u161-4" href="contact---lefan-shi.html"><!-- content --><p>CONTACT</p></a>
-    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="455" data-content-below-spacer="98"></div>
+    <div class="verticalspacer" data-offset-top="1450" data-content-above-spacer="1450" data-content-below-spacer="99"></div>
     <div class="clearfix grpelem shared_content" id="u244-4" data-content-guid="u244-4_content"><!-- content -->
      <p>Design &amp; Development by Lefan Shi</p>
     </div>
    </div>
   </div>
   <div class="breakpoint" id="bp_980" data-min-width="737" data-max-width="980"><!-- responsive breakpoint node -->
-   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu17059_content"><!-- placeholder node --></span>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu98_content"><!-- placeholder node --></span>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="ppu151-4_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1098" data-content-above-spacer="1098" data-content-below-spacer="99"></div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="u244-4_content"><!-- placeholder node --></span>
+   </div>
   </div>
   <div class="breakpoint" id="bp_736" data-min-width="501" data-max-width="736"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu17059_content"><!-- placeholder node --></span>
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu98_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu107"><!-- column -->
-     <span class="clip_frame colelem placeholder" data-placeholder-for="u107_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="pu24166"><!-- column -->
+     <span class="colelem placeholder" data-placeholder-for="u24166_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u255-4_content"><!-- placeholder node --></span>
-     <div class="accordion_wrapper colelem" id="accordionu22570wrapper"><!-- vertical box -->
-      <ul class="AccordionWidget clearfix" id="accordionu22570"><!-- column -->
-       <li class="AccordionPanel borderbox clearfix colelem" id="u22571"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u22572-3"><!-- content --><div id="u22572-2" class="shared_content" data-content-guid="u22572-2_content"><p>&nbsp;</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u22573"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu22574"><!-- horizontal box --><div class="MenuItemContainer borderbox clearfix grpelem" id="u22575"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22576" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22577-4"><!-- content --><p class="shared_content" data-content-guid="u22577-4_0_content">WORK</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22589"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22590" href="blog---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22591-4"><!-- content --><p class="shared_content" data-content-guid="u22591-4_0_content">BLOG</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22596"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22599" href="about---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22601-4"><!-- content --><p class="shared_content" data-content-guid="u22601-4_0_content">ABOUT</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22582"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22585" href="contact---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22588-4"><!-- content --><p class="shared_content" data-content-guid="u22588-4_0_content">CONTACT</p></div></a></div></nav></div></li>
-      </ul>
+     <div class="clearfix colelem" id="paccordionu22570"><!-- group -->
+      <div class="accordion_wrapper grpelem" id="accordionu22570wrapper"><!-- vertical box -->
+       <ul class="AccordionWidget clearfix" id="accordionu22570"><!-- column -->
+        <li class="AccordionPanel borderbox clearfix colelem" id="u22571"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem" id="u22572-3"><!-- content --><div id="u22572-2" class="shared_content" data-content-guid="u22572-2_content"><p>&nbsp;</p></div></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u22573"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu22574"><!-- horizontal box --><div class="MenuItemContainer borderbox clearfix grpelem" id="u22575"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22576" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22577-4"><!-- content --><p class="shared_content" data-content-guid="u22577-4_0_content">WORK</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22589"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22590" href="blog---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22591-4"><!-- content --><p class="shared_content" data-content-guid="u22591-4_0_content">BLOG</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22596"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22599" href="about---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22601-4"><!-- content --><p class="shared_content" data-content-guid="u22601-4_0_content">ABOUT</p></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem" id="u22582"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem" id="u22585" href="contact---lefan-shi.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u22588-4"><!-- content --><p class="shared_content" data-content-guid="u22588-4_0_content">CONTACT</p></div></a></div></nav></div></li>
+       </ul>
+      </div>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u24152_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <div class="verticalspacer shared_content" data-offset-top="0" data-content-above-spacer="455" data-content-below-spacer="95" data-content-guid="page_3_content"></div>
+    <div class="verticalspacer" data-offset-top="913" data-content-above-spacer="913" data-content-below-spacer="95"></div>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u244-4_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -171,16 +181,19 @@ h1,h2,h3,h4,h5,p,*{font-family: 'Quicksand', sans-serif;}
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu17059_content"><!-- placeholder node --></span>
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu98_content"><!-- placeholder node --></span>
-    <div class="clearfix grpelem temp_no_id" data-orig-id="pu107"><!-- column -->
-     <span class="clip_frame colelem placeholder" data-placeholder-for="u107_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu24166"><!-- column -->
+     <span class="colelem placeholder" data-placeholder-for="u24166_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u255-4_content"><!-- placeholder node --></span>
-     <div class="accordion_wrapper colelem temp_no_id" data-orig-id="accordionu22570wrapper"><!-- vertical box -->
-      <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu22570"><!-- column -->
-       <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u22571"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem temp_no_id" data-orig-id="u22572-3"><!-- content --><span class="placeholder" data-placeholder-for="u22572-2_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u22573"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu22574"><!-- horizontal box --><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22575"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u22576"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22577-4"><!-- content --><span class="placeholder" data-placeholder-for="u22577-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22589"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="blog---lefan-shi.html" data-orig-id="u22590"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22591-4"><!-- content --><span class="placeholder" data-placeholder-for="u22591-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22596"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about---lefan-shi.html" data-orig-id="u22599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22601-4"><!-- content --><span class="placeholder" data-placeholder-for="u22601-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22582"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact---lefan-shi.html" data-orig-id="u22585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22588-4"><!-- content --><span class="placeholder" data-placeholder-for="u22588-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
-      </ul>
+     <div class="clearfix colelem temp_no_id" data-orig-id="paccordionu22570"><!-- group -->
+      <div class="accordion_wrapper grpelem temp_no_id" data-orig-id="accordionu22570wrapper"><!-- vertical box -->
+       <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu22570"><!-- column -->
+        <li class="AccordionPanel borderbox clearfix colelem temp_no_id" data-orig-id="u22571"><!-- vertical box --><div class="AccordionPanelTab borderbox clearfix colelem temp_no_id" data-orig-id="u22572-3"><!-- content --><span class="placeholder" data-placeholder-for="u22572-2_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn borderbox clearfix colelem temp_no_id" data-orig-id="u22573"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu22574"><!-- horizontal box --><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22575"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u22576"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22577-4"><!-- content --><span class="placeholder" data-placeholder-for="u22577-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22589"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="blog---lefan-shi.html" data-orig-id="u22590"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22591-4"><!-- content --><span class="placeholder" data-placeholder-for="u22591-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22596"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="about---lefan-shi.html" data-orig-id="u22599"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22601-4"><!-- content --><span class="placeholder" data-placeholder-for="u22601-4_0_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u22582"><!-- vertical box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix colelem temp_no_id" href="contact---lefan-shi.html" data-orig-id="u22585"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u22588-4"><!-- content --><span class="placeholder" data-placeholder-for="u22588-4_0_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
+       </ul>
+      </div>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u24152_content"><!-- placeholder node --></span>
      </div>
     </div>
-    <span class="verticalspacer placeholder" data-placeholder-for="page_3_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="732" data-content-above-spacer="732" data-content-below-spacer="95"></div>
     <span class="clearfix grpelem placeholder" data-placeholder-for="u244-4_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -197,7 +210,7 @@ h1,h2,h3,h4,h5,p,*{font-family: 'Quicksand', sans-serif;}
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.musemenu","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */

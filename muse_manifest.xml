@@ -1,34 +1,34 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1494533381003">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lefanshi.me" resolutions="1x" timestamp="1494724452995">
   <folder name="css">
     <file name="site_global.css" crc="61748328"/>
-    <file name="master_a-master.css" crc="510934267" ref="animal-cell-and-plant-cell:papilionidae-metamorphosis:about---lefan-shi:botanical-illustrations:robot-smoker:allergic-reactions:drug-abuse:blog---lefan-shi:résumé:facial-nerve:contact---lefan-shi:index:brachial-plexus"/>
-    <file name="nomq_preview_master_a-master.css" crc="509184651" ref="animal-cell-and-plant-cell:papilionidae-metamorphosis:about---lefan-shi:botanical-illustrations:robot-smoker:allergic-reactions:drug-abuse:blog---lefan-shi:résumé:facial-nerve:contact---lefan-shi:index:brachial-plexus"/>
-    <file name="animal-cell-and-plant-cell.css" crc="4214341605" ref="animal-cell-and-plant-cell"/>
-    <file name="nomq_animal-cell-and-plant-cell.css" crc="435679591" ref="animal-cell-and-plant-cell"/>
-    <file name="papilionidae-metamorphosis.css" crc="3852830322" ref="papilionidae-metamorphosis"/>
-    <file name="nomq_papilionidae-metamorphosis.css" crc="107152145" ref="papilionidae-metamorphosis"/>
-    <file name="about---lefan-shi.css" crc="3865349916" ref="about---lefan-shi"/>
-    <file name="nomq_about---lefan-shi.css" crc="83486685" ref="about---lefan-shi"/>
-    <file name="botanical-illustrations.css" crc="3763617880" ref="botanical-illustrations"/>
-    <file name="nomq_botanical-illustrations.css" crc="468269617" ref="botanical-illustrations"/>
-    <file name="robot-smoker.css" crc="3770436505" ref="robot-smoker"/>
-    <file name="nomq_robot-smoker.css" crc="3862738600" ref="robot-smoker"/>
-    <file name="allergic-reactions.css" crc="259279659" ref="allergic-reactions"/>
-    <file name="nomq_allergic-reactions.css" crc="4282232806" ref="allergic-reactions"/>
-    <file name="drug-abuse.css" crc="126360756" ref="drug-abuse"/>
-    <file name="nomq_drug-abuse.css" crc="3932930527" ref="drug-abuse"/>
-    <file name="blog---lefan-shi.css" crc="106606075" ref="blog---lefan-shi"/>
-    <file name="nomq_blog---lefan-shi.css" crc="141960691" ref="blog---lefan-shi"/>
-    <file name="r_sum_.css" crc="106606075" ref="résumé"/>
-    <file name="nomq_r_sum_.css" crc="141960691" ref="résumé"/>
-    <file name="facial-nerve.css" crc="4124201375" ref="facial-nerve"/>
-    <file name="nomq_facial-nerve.css" crc="99501256" ref="facial-nerve"/>
-    <file name="contact---lefan-shi.css" crc="3832004724" ref="contact---lefan-shi"/>
-    <file name="nomq_contact---lefan-shi.css" crc="3918754533" ref="contact---lefan-shi"/>
-    <file name="index.css" crc="4002678183" ref="index"/>
-    <file name="nomq_index.css" crc="4152793121" ref="index"/>
-    <file name="brachial-plexus.css" crc="104864885" ref="brachial-plexus"/>
-    <file name="nomq_brachial-plexus.css" crc="45659415" ref="brachial-plexus"/>
+    <file name="master_a-master.css" crc="4158906675" ref="about---lefan-shi:botanical-illustrations:contact---lefan-shi:papilionidae-metamorphosis:allergic-reactions:index:robot-smoker:résumé:blog---lefan-shi:drug-abuse:animal-cell-and-plant-cell:facial-nerve:brachial-plexus"/>
+    <file name="nomq_preview_master_a-master.css" crc="509184651" ref="about---lefan-shi:botanical-illustrations:contact---lefan-shi:papilionidae-metamorphosis:allergic-reactions:index:robot-smoker:résumé:blog---lefan-shi:drug-abuse:animal-cell-and-plant-cell:facial-nerve:brachial-plexus"/>
+    <file name="about---lefan-shi.css" crc="4182991150" ref="about---lefan-shi"/>
+    <file name="nomq_about---lefan-shi.css" crc="90399114" ref="about---lefan-shi"/>
+    <file name="botanical-illustrations.css" crc="3975569907" ref="botanical-illustrations"/>
+    <file name="nomq_botanical-illustrations.css" crc="199643138" ref="botanical-illustrations"/>
+    <file name="contact---lefan-shi.css" crc="4104190576" ref="contact---lefan-shi"/>
+    <file name="nomq_contact---lefan-shi.css" crc="407066932" ref="contact---lefan-shi"/>
+    <file name="papilionidae-metamorphosis.css" crc="92730857" ref="papilionidae-metamorphosis"/>
+    <file name="nomq_papilionidae-metamorphosis.css" crc="3882806410" ref="papilionidae-metamorphosis"/>
+    <file name="allergic-reactions.css" crc="4035494778" ref="allergic-reactions"/>
+    <file name="nomq_allergic-reactions.css" crc="4116825677" ref="allergic-reactions"/>
+    <file name="index.css" crc="426861190" ref="index"/>
+    <file name="nomq_index.css" crc="517042178" ref="index"/>
+    <file name="robot-smoker.css" crc="488118890" ref="robot-smoker"/>
+    <file name="nomq_robot-smoker.css" crc="189103067" ref="robot-smoker"/>
+    <file name="r_sum_.css" crc="4136560181" ref="résumé"/>
+    <file name="nomq_r_sum_.css" crc="3788088287" ref="résumé"/>
+    <file name="blog---lefan-shi.css" crc="4292836520" ref="blog---lefan-shi"/>
+    <file name="nomq_blog---lefan-shi.css" crc="3823061349" ref="blog---lefan-shi"/>
+    <file name="drug-abuse.css" crc="515160500" ref="drug-abuse"/>
+    <file name="nomq_drug-abuse.css" crc="4231451143" ref="drug-abuse"/>
+    <file name="animal-cell-and-plant-cell.css" crc="44763173" ref="animal-cell-and-plant-cell"/>
+    <file name="nomq_animal-cell-and-plant-cell.css" crc="64917821" ref="animal-cell-and-plant-cell"/>
+    <file name="facial-nerve.css" crc="3847413901" ref="facial-nerve"/>
+    <file name="nomq_facial-nerve.css" crc="170931334" ref="facial-nerve"/>
+    <file name="brachial-plexus.css" crc="516908261" ref="brachial-plexus"/>
+    <file name="nomq_brachial-plexus.css" crc="4082556616" ref="brachial-plexus"/>
   </folder>
   <folder name="assets">
     <file name="lefan_shi_résumé.pdf" crc="427880442" seo="true" mt="1492474121000"/>
@@ -38,7 +38,7 @@
     <file name="museutils.js" crc="4232573551" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="whatinput.js" crc="86476730" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="museconfig.js" crc="3849126041" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about---lefan-shi:allergic-reactions:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:about---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="webpro.js" crc="3770351119" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
@@ -55,61 +55,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-80x85.svg" crc="4031484400" seo="true" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse">
-      <caption webpage="allergic-reactions" alt=""/>
-      <caption webpage="allergic-reactions" alt=""/>
-      <caption webpage="allergic-reactions" alt=""/>
-      <caption webpage="allergic-reactions" alt=""/>
-      <caption webpage="blog---lefan-shi" alt=""/>
-      <caption webpage="blog---lefan-shi" alt=""/>
-      <caption webpage="blog---lefan-shi" alt=""/>
-      <caption webpage="blog---lefan-shi" alt=""/>
-      <caption webpage="contact---lefan-shi" alt=""/>
-      <caption webpage="contact---lefan-shi" alt=""/>
-      <caption webpage="contact---lefan-shi" alt=""/>
-      <caption webpage="contact---lefan-shi" alt=""/>
-      <caption webpage="facial-nerve" alt=""/>
-      <caption webpage="facial-nerve" alt=""/>
-      <caption webpage="facial-nerve" alt=""/>
-      <caption webpage="facial-nerve" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="botanical-illustrations" alt=""/>
-      <caption webpage="botanical-illustrations" alt=""/>
-      <caption webpage="botanical-illustrations" alt=""/>
-      <caption webpage="botanical-illustrations" alt=""/>
-      <caption webpage="résumé" alt=""/>
-      <caption webpage="résumé" alt=""/>
-      <caption webpage="résumé" alt=""/>
-      <caption webpage="résumé" alt=""/>
-      <caption webpage="papilionidae-metamorphosis" alt=""/>
-      <caption webpage="papilionidae-metamorphosis" alt=""/>
-      <caption webpage="papilionidae-metamorphosis" alt=""/>
-      <caption webpage="papilionidae-metamorphosis" alt=""/>
-      <caption webpage="brachial-plexus" alt=""/>
-      <caption webpage="brachial-plexus" alt=""/>
-      <caption webpage="brachial-plexus" alt=""/>
-      <caption webpage="brachial-plexus" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-      <caption webpage="animal-cell-and-plant-cell" alt=""/>
-      <caption webpage="drug-abuse" alt=""/>
-      <caption webpage="drug-abuse" alt=""/>
-      <caption webpage="drug-abuse" alt=""/>
-      <caption webpage="drug-abuse" alt=""/>
-      <caption webpage="robot-smoker" alt=""/>
-      <caption webpage="robot-smoker" alt=""/>
-      <caption webpage="robot-smoker" alt=""/>
-      <caption webpage="robot-smoker" alt=""/>
-    </file>
-    <file name="pasted svg 80x85_poster_.png" crc="3773136060" ref="index"/>
+    <file name="logo.svg" crc="4071990617" ref="index"/>
+    <file name="logo_poster_u24172.png" crc="351491795" ref="index"/>
     <file name="animal_cell_and_plant_cell_lefan_shi.jpg" crc="418089522" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -150,7 +97,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="metamorphosis_lefan_shi.jpg" crc="4118177406" ref="index">
+    <file name="papilionidae_metamorphosis_lefan_shi.jpg" crc="4118177406" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -166,7 +113,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="social_issue_poster_lefan_shi.jpg" crc="4045209765" ref="index">
+    <file name="drug_abuse_lefan_shi.jpg" crc="4045209765" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -185,24 +132,22 @@
     <file name="brachial_plexus_lefan_shi-u222-fr.jpg" crc="4006313173" ref="index"/>
     <file name="brachial_plexus_transition-u2114-fr.png" crc="4289475228" ref="index"/>
     <file name="papilionidae_metamorphosis_transition-u1100-fr.png" crc="377231004" ref="index"/>
-    <file name="metamorphosis_lefan_shi-u346-fr.jpg" crc="3769455402" ref="index"/>
+    <file name="papilionidae_metamorphosis_lefan_shi-u346-fr.jpg" crc="3769455402" ref="index"/>
     <file name="drug_abuse_transition-u3970-fr.png" crc="3786525325" ref="index"/>
-    <file name="social_issue_poster_lefan_shi-u3971-fr.jpg" crc="3876370689" ref="index"/>
+    <file name="drug_abuse_lefan_shi-u3971-fr.jpg" crc="3876370689" ref="index"/>
     <file name="mobile_drop_down.svg" crc="39190378" ref="index"/>
     <file name="mobile_drop_down_poster_u20911.png" crc="208341735" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:blog---lefan-shi:about---lefan-shi:contact---lefan-shi:allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
-    <file name="image1.jpg" crc="318090326" ref="about---lefan-shi">
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-      <caption webpage="about---lefan-shi" alt=""/>
-    </file>
+    <file name="me.svg" crc="4255682394" ref="about---lefan-shi"/>
+    <file name="me_poster_u24010.png" crc="181277617" ref="about---lefan-shi"/>
+    <file name="blank.gif" crc="4208392903" ref="allergic-reactions:résumé:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="left_button.svg" crc="287912765" ref="allergic-reactions:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="left_button_poster_u22518.png" crc="3800162843" ref="allergic-reactions:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker:drug-abuse"/>
     <file name="allergic_reactions_format.svg" crc="3927515800" ref="allergic-reactions"/>
     <file name="allergic_reactions_format_poster_u23042.png" crc="4278659683" ref="allergic-reactions"/>
     <file name="right_button.svg" crc="3933468567" ref="allergic-reactions:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker"/>
     <file name="right_button_poster_u22525.png" crc="334347839" ref="allergic-reactions:animal-cell-and-plant-cell:facial-nerve:brachial-plexus:botanical-illustrations:papilionidae-metamorphosis:robot-smoker"/>
+    <file name="lefan_shi_resume.svg" crc="4142228301" ref="résumé"/>
+    <file name="lefan_shi_resume_poster_u24158.png" crc="3996699712" ref="résumé"/>
     <file name="animal_cell_and_plant_cell_format.svg" crc="492906509" ref="animal-cell-and-plant-cell"/>
     <file name="animal_cell_and_plant_cell_format_poster_u23120.png" crc="333729633" ref="animal-cell-and-plant-cell"/>
     <file name="facial_nerve_format.svg" crc="307442781" ref="facial-nerve"/>
@@ -218,17 +163,17 @@
     <file name="drug_abuse_format.svg" crc="3870012566" ref="drug-abuse"/>
     <file name="drug_abuse_format_poster_u23494.png" crc="4140953960" ref="drug-abuse"/>
   </folder>
-  <file name="index.html" crc="428248832" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="blog---lefan-shi.html" crc="3812319562" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="about---lefan-shi.html" crc="137667358" seo="true" mt="1494533366555" redirect="true"/>
-  <file name="contact---lefan-shi.html" crc="3868288656" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="allergic-reactions.html" crc="3767360422" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="résumé.html" crc="420238199" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="animal-cell-and-plant-cell.html" crc="3818389835" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="facial-nerve.html" crc="46475406" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="brachial-plexus.html" crc="3871232379" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="botanical-illustrations.html" crc="3844477596" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="papilionidae-metamorphosis.html" crc="3919859494" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="robot-smoker.html" crc="4020656702" seo="true" mt="1494211302629" redirect="true"/>
-  <file name="drug-abuse.html" crc="234285518" seo="true" mt="1494211302629" redirect="true"/>
+  <file name="index.html" crc="4091551089" seo="true" mt="1494724438241" redirect="true"/>
+  <file name="blog---lefan-shi.html" crc="4189147275" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="about---lefan-shi.html" crc="3825394517" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="contact---lefan-shi.html" crc="3999242468" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="allergic-reactions.html" crc="267304849" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="résumé.html" crc="194742573" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="animal-cell-and-plant-cell.html" crc="4055573123" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="facial-nerve.html" crc="3939845372" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="brachial-plexus.html" crc="296526008" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="botanical-illustrations.html" crc="69331660" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="papilionidae-metamorphosis.html" crc="59022571" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="robot-smoker.html" crc="3798402860" seo="true" mt="1494724081318" redirect="true"/>
+  <file name="drug-abuse.html" crc="261546791" seo="true" mt="1494724081318" redirect="true"/>
 </manifest>
